@@ -1,0 +1,5 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\5.Conditional-Statements\13.Triangle\bin\Debug\13.Triangle.exe.config
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\5.Conditional-Statements\13.Triangle\bin\Debug\13.Triangle.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\5.Conditional-Statements\13.Triangle\bin\Debug\13.Triangle.pdb
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\5.Conditional-Statements\13.Triangle\obj\Debug\13.Triangle.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\5.Conditional-Statements\13.Triangle\obj\Debug\13.Triangle.pdb

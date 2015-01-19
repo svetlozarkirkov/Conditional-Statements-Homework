@@ -1,0 +1,5 @@
+C:\Users\Sve\documents\visual studio 2013\Projects\5.Conditional-Statements\14.Pairs\bin\Debug\14.Pairs.exe.config
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\5.Conditional-Statements\14.Pairs\bin\Debug\14.Pairs.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\5.Conditional-Statements\14.Pairs\bin\Debug\14.Pairs.pdb
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\5.Conditional-Statements\14.Pairs\obj\Debug\14.Pairs.exe
+C:\Users\Sve\Documents\Visual Studio 2013\Projects\5.Conditional-Statements\14.Pairs\obj\Debug\14.Pairs.pdb
